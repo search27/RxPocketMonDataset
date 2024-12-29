@@ -7,7 +7,6 @@
 
 
 Support By [ Cloud Rx (<a href='https://rxapis.com'>https://rxapis.com</a>) ].
-* Testing is available until the end of the year.
 
 아레스 포켓몬 사이트 URL
 <a href='https://pocketmon.nab.kr/'>https://pocketmon.nab.kr/</a>
